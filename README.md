@@ -41,6 +41,6 @@ Sistema completo para la gestión de inventarios, ventas y administración de fa
 ## 📫 Conéctate conmigo
 
 💼 [LinkedIn](www.linkedin.com/in/kevinvillamizar)
-📧 [villamizzar1012@gmail.com] *(Opcional)*  
+📧 [villamizzar1012@gmail.com]
 
 ¡Abierto a mi primera oportunidad como **Desarrollador Junior**!
